@@ -1,9 +1,9 @@
-# 👋 Hi, I’m ekipy!
+# 👋 Hi, I’m Eki Panca Nugraha!
 
 ## 👨‍💻 About Me
 
-- **Profession:** Quality Engineer  
-- **Specialization:** Automation Testing with Selenium & Java  
+- **Profession:** Quality Assurance
+- **Specialization:** Automation Testing with Selenium-Java & Manual Testing
 - **Certification:** QA Automation from JayJay School  
 - **Fun Fact:** I love analysis—finding patterns and solving tricky testing challenges is my thing!  
 - **Hobbies:** Softball enthusiast when I’m not coding.
@@ -12,7 +12,7 @@
 
 ## 🌟 Top Skills
 
-- **Test Automation:** Selenium, Java
+- **Test Automation:** Selenium, Java, Cucumber, Allure, Appium
 - **Analysis & Problem Solving:** Turning requirements into robust, automated test cases
 - **Continuous Learning:** Always exploring new tools and techniques in QA
 
@@ -27,7 +27,7 @@
 
 ## 📂 Featured Repositories
 
-- [TeraUlang](https://github.com/ekipy/TeraUlang)  
+- [LenteraCPNS](https://github.com/ekipy/lenteraCPNS-Automation)  
 - [DemoBlaze-API](https://github.com/ekipy/DemoBlaze-API)  
 - [MagentoWeb](https://github.com/ekipy/MagentoWeb)  
 
